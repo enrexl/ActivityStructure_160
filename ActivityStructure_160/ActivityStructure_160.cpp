@@ -11,5 +11,11 @@ struct Mahasiswa {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    Mahasiswa mhs1, mhs2;
+    mhs1.NIM = "20220140160";
+    mhs1.nama = "Jordy";
+    mhs1.alamat = "Kasihan";
+    mhs1.umur = 20
+
+    
 }
